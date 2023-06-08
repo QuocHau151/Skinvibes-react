@@ -1,0 +1,295 @@
+[
+  {
+    "name": "Level Serum",
+    "oldPrice": "1400000 ",
+    "price": "1040000",
+    "id": "12132klj2322",
+    "isSale": true,
+    "isNew": true,
+    "image": "/level/QH-1.png",
+    "category": "Regimen Lab",
+    "filterItems": ["Regimen Lab"],
+    "isStocked": true,
+    "productNumber": "IN1203",
+    "imageGallery": [
+      "/level/level.jpeg",
+      "/level/QH-2.png",
+      "/level/QH-3.png",
+      "/level/QH-4.png",
+      "/level/QH-5.png",
+      "/level/QH-6.png"
+    ],
+
+    "content": "CÔNG DỤNG: Làm mịn màng, săn chắc làn da, đồng thời giảm viêm và tổn thương, chống tăng sắc tố, mờ thâm mụn, làm trắng da ",
+    "description": "  THÀNH PHẦN CỦA SẢN PHẨM: Aqua, Propanediol, Niacinamide, Betaine, Dimethyl Isosorbide, Tranexamic Acid, Acetyl Glucosamine, Alpha Arbutin, Undecylenoyl Phenylalanine, Glycyrrhiza Glabra (Licorice) Root Extract, Dipotassium Glycyrrhizinate, Tetrahydrodiferuloylmethane, Hexylresorcinol, Dimethylmethoxy Chromanol, Xanthan Gum, Lecithin, Sclerotium Gum, Pullulan, Disodium EDTA, Sodium Hydroxide, Chlorphenesin, Caprylyl Glycol, Phenoxyethanol, Ethylhexylglycerin",
+    "description2": "CÁCH DÙNG: Thoa một lớp mỏng (khoảng nửa vòi bơm) lên mặt và cổ của bạn. Sử dụng sau Vitamin X hoặc serum Vitamin C (nếu có) Nên sử dụng sáng và tối Nếu thường xuyên sử dụng các loại acid/retinol, hãy sử dụng Level Serum sau khi dùng để tăng thêm hiệu quả.",
+    "reviews": [
+      {
+        "author": {
+          "image": "/assets/img/comment-author1.jpg",
+          "name": "Melissa Jones"
+        },
+        "reviewDate": "July 23, 2020",
+        "rating": 4,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you"
+      },
+      {
+        "author": {
+          "image": "/assets/img/comment-author3.jpg",
+          "name": "Amanda Clement"
+        },
+        "reviewDate": "June 15, 2020",
+        "rating": 5,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you). I am grateful to the employees of BeShop for the quality products."
+      },
+      {
+        "author": {
+          "image": "/assets/img/comment-author2.jpg",
+          "name": "Steve Gentley"
+        },
+        "reviewDate": "July 05, 2020",
+        "rating": 3,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you"
+      }
+    ]
+  },
+  {
+    "name": "Tabula Rasa",
+    "oldPrice": "420000",
+    "price": "390000",
+    "id": "12132klj1213",
+    "isSale": true,
+    "isNew": true,
+    "image": "/tabula/QH-11.jpeg",
+    "category": "Regimen Lab",
+    "filterItems": ["Regimen Lab"],
+
+    "isStocked": true,
+    "productNumber": "IN1203",
+
+    "imageGallery": [
+      "/tabula/tabula.jpeg",
+      "/tabula/QH-11.jpeg",
+      "/tabula/tabula.jpeg",
+      "/tabula/tabula.jpeg"
+    ],
+    "colors": [
+      "#FCEDEA",
+      "#FEE1DB",
+      "#FFD9D1",
+      "#FDC5B9",
+      "#FDB7A8",
+      "#FFA08A"
+    ],
+    "content": "Universal foundation masks skin imperfections and gives it a matte finish, remaining completely invisible on the face. The foundation is suitable for any skin type. Thanks to a unique combination of pigments, the foundation adapts perfectly to even the smallest features of skin tone, creating an even and natural tone",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi beatae provident ipsum omnis dolor sapiente maiores reiciendis exercitationem earum deleniti, reprehenderit iste ipsa saepe. Consectetur non et excepturi molestias esse?",
+    "reviews": [
+      {
+        "author": {
+          "image": "/assets/img/comment-author1.jpg",
+          "name": "Melissa Jones"
+        },
+        "reviewDate": "July 23, 2020",
+        "rating": 4,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you"
+      },
+      {
+        "author": {
+          "image": "/assets/img/comment-author3.jpg",
+          "name": "Amanda Clement"
+        },
+        "reviewDate": "June 15, 2020",
+        "rating": 5,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you). I am grateful to the employees of BeShop for the quality products."
+      },
+      {
+        "author": {
+          "image": "/assets/img/comment-author2.jpg",
+          "name": "Steve Gentley"
+        },
+        "reviewDate": "July 05, 2020",
+        "rating": 3,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you"
+      }
+    ]
+  },
+  {
+    "name": "Vitamin X",
+    "oldPrice": "1700000",
+    "price": "1280000",
+    "id": "12132klj232453",
+    "isSale": true,
+    "isNew": true,
+    "image": "/x/x2.jpeg",
+    "category": "Regimen Lab",
+    "filterItems": ["Regimen Lab"],
+    "isStocked": true,
+    "productNumber": "IN1203",
+    "imageGallery": [
+      "/x/x.jpeg",
+      "/x/x2.jpeg",
+      "/x/QH-1.jpg",
+      "/x/QH-2.jpg",
+      "/x/QH-4.jpg",
+      "/x/QH-5.jpg",
+      "/x/QH-6.jpg"
+    ],
+    "colors": [
+      "#FCEDEA",
+      "#FEE1DB",
+      "#FFD9D1",
+      "#FDC5B9",
+      "#FDB7A8",
+      "#FFA08A"
+    ],
+    "content": "Universal foundation masks skin imperfections and gives it a matte finish, remaining completely invisible on the face. The foundation is suitable for any skin type. Thanks to a unique combination of pigments, the foundation adapts perfectly to even the smallest features of skin tone, creating an even and natural tone",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi beatae provident ipsum omnis dolor sapiente maiores reiciendis exercitationem earum deleniti, reprehenderit iste ipsa saepe. Consectetur non et excepturi molestias esse?",
+    "reviews": [
+      {
+        "author": {
+          "image": "/assets/img/comment-author1.jpg",
+          "name": "Melissa Jones"
+        },
+        "reviewDate": "July 23, 2020",
+        "rating": 4,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you"
+      },
+      {
+        "author": {
+          "image": "/assets/img/comment-author3.jpg",
+          "name": "Amanda Clement"
+        },
+        "reviewDate": "June 15, 2020",
+        "rating": 5,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you). I am grateful to the employees of BeShop for the quality products."
+      },
+      {
+        "author": {
+          "image": "/assets/img/comment-author2.jpg",
+          "name": "Steve Gentley"
+        },
+        "reviewDate": "July 05, 2020",
+        "rating": 5,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you"
+      }
+    ]
+  },
+  {
+    "name": "Wave Serum",
+    "oldPrice": "1075000",
+    "price": "950000",
+    "id": "12132klj2121212",
+    "isSale": true,
+    "isNew": true,
+    "image": "/wave/wave2.jpeg",
+    "category": "Regimen Lab",
+    "filterItems": ["Regimen Lab"],
+    "isStocked": true,
+    "productNumber": "IN1203",
+    "imageGallery": [
+      "/wave/wave.jpeg", 
+      "/wave/wave2.jpeg", 
+      "/wave/QH-77.jpg",  
+      "/wave/QH-7.jpg",
+      "/wave/QH-8.jpg",
+      "/wave/QH-9.jpg"
+    ],
+    "colors": [
+      "#FCEDEA",
+      "#FEE1DB",
+      "#FFD9D1",
+      "#FDC5B9",
+      "#FDB7A8",
+      "#FFA08A"
+    ],
+    "content": "Universal foundation masks skin imperfections and gives it a matte finish, remaining completely invisible on the face. The foundation is suitable for any skin type. Thanks to a unique combination of pigments, the foundation adapts perfectly to even the smallest features of skin tone, creating an even and natural tone",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi beatae provident ipsum omnis dolor sapiente maiores reiciendis exercitationem earum deleniti, reprehenderit iste ipsa saepe. Consectetur non et excepturi molestias esse?",
+    "reviews": [
+      {
+        "author": {
+          "image": "/assets/img/comment-author1.jpg",
+          "name": "Melissa Jones"
+        },
+        "reviewDate": "July 23, 2020",
+        "rating": 4,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you"
+      },
+      {
+        "author": {
+          "image": "/assets/img/comment-author3.jpg",
+          "name": "Amanda Clement"
+        },
+        "reviewDate": "June 15, 2020",
+        "rating": 5,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you). I am grateful to the employees of BeShop for the quality products."
+      },
+      {
+        "author": {
+          "image": "/assets/img/comment-author2.jpg",
+          "name": "Steve Gentley"
+        },
+        "reviewDate": "July 05, 2020",
+        "rating": 5,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you"
+      }
+    ]
+  },
+  {
+    "name": "C.R.E.A.M",
+    "oldPrice": "1190000",
+    "price": "950000",
+    "id": "12132klj24444",
+    "isSale": true,
+    "isNew": true,
+    "image": "/cream/cream2.jpeg",
+    "category": "Regimen Lab",
+    "filterItems": ["Regimen Lab"],
+    "isStocked": true,
+    "productNumber": "IN1203",
+    "imageGallery": [
+      "/cream/cream.jpeg",
+      "/cream/cream2.jpeg",
+      "/cream/QH-3.jpg",
+      "/cream/QH-3.jpg"
+    ],
+    "colors": [
+      "#FCEDEA",
+      "#FEE1DB",
+      "#FFD9D1",
+      "#FDC5B9",
+      "#FDB7A8",
+      "#FFA08A"
+    ],
+    "content": "Universal foundation masks skin imperfections and gives it a matte finish, remaining completely invisible on the face. The foundation is suitable for any skin type. Thanks to a unique combination of pigments, the foundation adapts perfectly to even the smallest features of skin tone, creating an even and natural tone",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi beatae provident ipsum omnis dolor sapiente maiores reiciendis exercitationem earum deleniti, reprehenderit iste ipsa saepe. Consectetur non et excepturi molestias esse?",
+    "reviews": [
+      {
+        "author": {
+          "image": "/assets/img/comment-author1.jpg",
+          "name": "Melissa Jones"
+        },
+        "reviewDate": "July 23, 2020",
+        "rating": 4,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you"
+      },
+      {
+        "author": {
+          "image": "/assets/img/comment-author3.jpg",
+          "name": "Amanda Clement"
+        },
+        "reviewDate": "June 15, 2020",
+        "rating": 5,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you). I am grateful to the employees of BeShop for the quality products."
+      },
+      {
+        "author": {
+          "image": "/assets/img/comment-author2.jpg",
+          "name": "Steve Gentley"
+        },
+        "reviewDate": "July 05, 2020",
+        "rating": 5,
+        "content": "I am grateful to the employees of BeShop for the quality products that I have been using for more than a year, try to work at this level in the future. Thank you"
+      }
+    ]
+  }
+]
